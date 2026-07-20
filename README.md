@@ -1,4 +1,4 @@
-# 👋 Hello, I am a university student & aspiring Security Analyst and Ethical Hacker
+# 👋 Hello, I am a university student & aspiring to be a Security Analyst and Ethical Hacker
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
