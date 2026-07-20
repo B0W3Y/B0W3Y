@@ -59,5 +59,9 @@ To complement my university education and move closer to a backend engineering p
 If you'd like to talk about Python, web automation, cybersecurity basics, or even photography, feel free to drop a mail!
 
 <p align="left">
-  <a href="mailto:blknuter1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=blknuter1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
+
+###Blknuter1@gmail.com
